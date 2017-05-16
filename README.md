@@ -1,2 +1,2 @@
 # cart_app
-Cart application
+A sample Cart application
